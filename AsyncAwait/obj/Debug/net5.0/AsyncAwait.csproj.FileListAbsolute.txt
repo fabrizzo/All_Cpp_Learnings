@@ -1,0 +1,16 @@
+C:\Users\fre-o\source\repos\AsyncAwait\bin\Debug\net5.0\AsyncAwait.exe
+C:\Users\fre-o\source\repos\AsyncAwait\bin\Debug\net5.0\AsyncAwait.deps.json
+C:\Users\fre-o\source\repos\AsyncAwait\bin\Debug\net5.0\AsyncAwait.runtimeconfig.json
+C:\Users\fre-o\source\repos\AsyncAwait\bin\Debug\net5.0\AsyncAwait.runtimeconfig.dev.json
+C:\Users\fre-o\source\repos\AsyncAwait\bin\Debug\net5.0\AsyncAwait.dll
+C:\Users\fre-o\source\repos\AsyncAwait\bin\Debug\net5.0\ref\AsyncAwait.dll
+C:\Users\fre-o\source\repos\AsyncAwait\bin\Debug\net5.0\AsyncAwait.pdb
+C:\Users\fre-o\source\repos\AsyncAwait\obj\Debug\net5.0\AsyncAwait.csproj.AssemblyReference.cache
+C:\Users\fre-o\source\repos\AsyncAwait\obj\Debug\net5.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fre-o\source\repos\AsyncAwait\obj\Debug\net5.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\fre-o\source\repos\AsyncAwait\obj\Debug\net5.0\AsyncAwait.AssemblyInfo.cs
+C:\Users\fre-o\source\repos\AsyncAwait\obj\Debug\net5.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\fre-o\source\repos\AsyncAwait\obj\Debug\net5.0\AsyncAwait.dll
+C:\Users\fre-o\source\repos\AsyncAwait\obj\Debug\net5.0\ref\AsyncAwait.dll
+C:\Users\fre-o\source\repos\AsyncAwait\obj\Debug\net5.0\AsyncAwait.pdb
+C:\Users\fre-o\source\repos\AsyncAwait\obj\Debug\net5.0\AsyncAwait.genruntimeconfig.cache
